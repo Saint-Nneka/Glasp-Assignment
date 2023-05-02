@@ -18,7 +18,7 @@
 	* 4.2. [Basic setting](#Basicsetting)
 	* 4.3. [Advanced setting](#Advancedsetting)
 * 5. [Using Glasp Extension to Highlight Web Articles](#UsingGlaspExtensiontoHighlightWebArticles)
-	* 5.1. [ Web features](#globe_with_meridians:Webfeatures)
+	* 5.1. [ Web features](Webfeatures)
 	* 5.2. [Sidebar features](#Sidebarfeatures)
 * 6. [Sign out/Remove Glasp extension](#SignoutRemoveGlaspextension)
 * 7. [Conclusion](#Conclusion)
