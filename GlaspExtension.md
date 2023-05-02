@@ -144,7 +144,7 @@ Click here to go to the homepage of your own Glasp account. There, you can acces
 
 **:four: Tag**
 
-Click on the tag icon to tag your highlight to related subject. 
+Click on the tag icon 🏷️ to tag your highlight to related subject. 
 
 **:five: View AI Summary**
 
@@ -167,6 +167,7 @@ once you starte imputing your page comment, you'll see a blue `Save` button on t
 
 Your web page Highlight & Notes is displayed in a container titled as such. 
 Click on the three dots in the top-right corner of the container to access these underlisted options.
+
 ![Glasp Extension Highlight option](https://res.cloudinary.com/dvwkqsotl/image/upload/v1682419218/glasp_extension_highlight_options_g2kses.jpg)
 
 *Share on twitter*
