@@ -3,7 +3,7 @@
 <img class="banner" src="https://res.cloudinary.com/dvwkqsotl/image/upload/v1682000451/Tech%20assign2/glasp_png_edwreb.png" width="100%" alt="Glasp">
 
 <style>
-	.banner {background: white;
+	.banner {background: #fff;
 	}
 	img{
 		height:15;
@@ -117,7 +117,9 @@ Click on *#* **Explore options** for intance, to view the highlight activities o
 
 ###  5.1. <a name='globe_with_meridians:Webfeatures'></a>:globe_with_meridians: Web features
 
-*Highlight popup.* ![](https://res.cloudinary.com/dvwkqsotl/image/upload/v1682412676/Tech%20assign2/Glasp_extension_highlight_popup_z1txwd.gif)
+*Highlight popup.* 
+
+![](https://res.cloudinary.com/dvwkqsotl/image/upload/v1682412676/Tech%20assign2/Glasp_extension_highlight_popup_z1txwd.gif)
 
 Open the article in your browser and use your mouse to select the text you want to highlight. Once the text is selected, you will see a popup bar above the selection. If your popup bar isn't displayed, Go to settings → highlight popup → on. 
 From the popup bar, choose a preferred color for your highlight.   
@@ -178,6 +180,7 @@ Click on this :writing_hand: icon to display a textfield where you can note down
   *Create highlight image*
 
 ![Glasp Extension Highlight Image](https://res.cloudinary.com/dvwkqsotl/image/upload/v1682350640/Tech%20assign2/Glasp_extension_Highlight_Image_yd9y5r.png)
+
 If you want to share your highlight as a quote, click on `create image highlight` to render your highlight in a card. Choose the color of your card from the given options. You can also select a square or landscape display for your card.
 Click on the download icon in the bottom-left corner of your “create image highlight page” to download your card. Next to the download icon are facebook and twitter icons. With these, you can share your card directly from the web page.
 
