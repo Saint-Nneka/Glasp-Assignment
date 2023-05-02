@@ -1,6 +1,7 @@
 # Web Highlighting! How To Use The Glasp Extension.
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC560BAQFdKvVDuMfnBg%2Fcompany-logo_200_200%2F0%2F1611909613612%3Fe%3D2159024400%26v%3Dbeta%26t%3DeXljPGVwNRJRNiPQNiDVY64ZXincIEK-fqagWE9tx48&f=1&nofb=1&ipt=5c4483c8b0179833f76850c4f1539cc97c44eca4562443223856915ea9fcdc47&ipo=images" width="100%">
+![Glasp Extension](https://res.cloudinary.com/dvwkqsotl/image/upload/v1683042103/Tech%20assign2/glasp_vhipe8.jpg)
+
 
 ##  1. <a name='TableofContent'></a>[Table of Content](ReadME.md)
 <!-- vscode-markdown-toc -->
