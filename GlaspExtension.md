@@ -1,45 +1,46 @@
+
 # Web Highlighting! How To Use The Glasp Extension.
 
 ![Glasp Extension](https://res.cloudinary.com/dvwkqsotl/image/upload/v1683042103/Tech%20assign2/glasp_vhipe8.jpg)
 
+[**Table of Content**](ReadMe.md)
 
-##  1. <a name='TableofContent'></a>[Table of Content](ReadME.md)
 <!-- vscode-markdown-toc -->
-* 1. [Table of Content](#TableofContent)
-* 2. [Introduction](#Introduction)
-	* 2.1. [Overview](#Overview)
-	* 2.2. [What is Glasp?](#WhatisGlasp)
-	* 2.3. [Key Features of the Glasp Extension.](#KeyFeaturesoftheGlaspExtension.)
-* 3. [Getting Started with Glasp](#GettingStartedwithGlasp)
-	* 3.1. [Installing Glasp Extension](#InstallingGlaspExtension)
-	* 3.2. [Log in/ Sign up](#LoginSignup)
-* 4. [Setting up your Glasp Extension](#SettingupyourGlaspExtension)
-	* 4.1. [Locating your Glasp Extension](#LocatingyourGlaspExtension)
-	* 4.2. [Basic setting](#Basicsetting)
-	* 4.3. [Advanced setting](#Advancedsetting)
-* 5. [Using Glasp Extension to Highlight Web Articles](#UsingGlaspExtensiontoHighlightWebArticles)
-	* 5.1. [ Web features](Webfeatures)
-	* 5.2. [Sidebar features](#Sidebarfeatures)
-* 6. [Sign out/Remove Glasp extension](#SignoutRemoveGlaspextension)
-* 7. [Conclusion](#Conclusion)
-* 8. [Footnote.](#Footnote.)
+* 1. [Introduction](#Introduction)
+	* 1.1. [Overview](#Overview)
+	* 1.2. [What is Glasp?](#WhatisGlasp)
+	* 1.3. [Key Features of the Glasp Extension.](#KeyFeaturesoftheGlaspExtension.)
+* 2. [Getting Started with Glasp](#GettingStartedwithGlasp)
+	* 2.1. [Installing Glasp Extension](#InstallingGlaspExtension)
+	* 2.2. [Log in/ Sign up](#LoginSignup)
+* 3. [Setting up your Glasp Extension](#SettingupyourGlaspExtension)
+	* 3.1. [Locating your Glasp Extension](#LocatingyourGlaspExtension)
+	* 3.2. [Basic setting](#Basicsetting)
+	* 3.3. [Advanced setting](#Advancedsetting)
+* 4. [Using Glasp Extension to Highlight Web Articles](#UsingGlaspExtensiontoHighlightWebArticles)
+	* 4.1. [Web features](#Webfeatures)
+	* 4.2. [Sidebar features](#Sidebarfeatures)
+* 5. [Sign out/Remove Glasp extension](#SignoutRemoveGlaspextension)
+* 6. [Conclusion](#Conclusion)
+* 7. [Footnote.](#Footnote.)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
 	autoSave=true
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
-##  2. <a name='Introduction'></a>Introduction
 
-###  2.1. <a name='Overview'></a>Overview
+##  1. <a name='Introduction'></a>Introduction
+
+###  1.1. <a name='Overview'></a>Overview
 
 Web articles are a rich source of information on various topics. However, with so much content available on the internet, it can be challenging to remember which parts of an article you found most useful. This makes `the need to be able to track down online information` crucial. In this guide, you are learning how to highlight web articles using the Glasp extension. This ushers you to a sane world of orderliness and productivity as you research through web articles for your accademic or carrer advancement.
 
-###  2.2. <a name='WhatisGlasp'></a>What is Glasp?
+###  1.2. <a name='WhatisGlasp'></a>What is Glasp?
 
-The full meaning of Glasp is  `"Greatest Legacy Accumulates as Shared Proof"` It is a tool that provides a `highlighting solution` to the information tracking need of a web researcher. While reading through an online content, you can now interact with the webpages by sharing a comment, or adding a note to expound on a subject. Glasp made provisions that allows you to save your highlight for future refrences. And you can also share your content directly from the web page to your preferred social platform. Moreso, the interface of the glasp extension is very user-friendly. You can customize the settings to your preference as you are about to discover as you read through.
+The full meaning of Glasp is  `"Greatest Legacy Accumulated as Shared Proof"` It is a tool that provides a `highlighting solution` to the information tracking need of a web researcher. While reading through an online content, you can now interact with the webpages by sharing a comment, or adding a note to expound on a subject. Glasp made provisions that allows you to save your highlight for future refrences. And you can also share your content directly from the web page to your preferred social platform. Moreso, the interface of the glasp extension is very user-friendly. You can customize the settings to your preference as you are about to discover as you read through.
 
-###  2.3. <a name='KeyFeaturesoftheGlaspExtension.'></a>Key Features of the Glasp Extension.
+###  1.3. <a name='KeyFeaturesoftheGlaspExtension.'></a>Key Features of the Glasp Extension.
 *User account:* Your Glasp account is featured on the extension sidebar. You can navigate to your homepage to access your highlights, follow other people on Glasp and keep up with trending highlights.
 
 *Color Highlitghting:* This is a web feature that lets you highlight your web selection, in your preferred colour, from a popup bar.
@@ -58,30 +59,32 @@ The full meaning of Glasp is  `"Greatest Legacy Accumulates as Shared Proof"` It
 
 *Sharing:* With this, you can share your highlights directly from the webpage to your social or even offline platforms.
 
-##  3. <a name='GettingStartedwithGlasp'></a>Getting Started with Glasp
-###  3.1. <a name='InstallingGlaspExtension'></a>Installing Glasp Extension
+##  2. <a name='GettingStartedwithGlasp'></a>Getting Started with Glasp
+
+###  2.1. <a name='InstallingGlaspExtension'></a>Installing Glasp Extension
 
 ![Installing Glasp](https://res.cloudinary.com/dvwkqsotl/image/upload/v1683033393/Tech%20assign2/Install_Glasp_Extension_fyk5kq.png)
 
-Glasp Extension is available for Chrome and Safari. Go to [glasp.co](glasp.co) and choose the suitable extension for your browser. And you click `save` to finish the installation. 
+Glasp Extension is available for Chrome and Safari. Go to [glasp.co](glasp.co) and choose the suitable extension for your browser. *Click `save` to finish the installation.* 
 
-###  3.2. <a name='LoginSignup'></a>Log in/ Sign up
+###  2.2. <a name='LoginSignup'></a>Log in/ Sign up
 
 Now that you have successfully installed your Glasp extension, create a new account or log in to an existing account. You can continue this process with your Google account. Once you have successfully signed up, your Glasp extension sidebar becomes accessible to you. Then you can proceed to set
  up your interface.
 
-##  4. <a name='SettingupyourGlaspExtension'></a>Setting up your Glasp Extension
-###  4.1. <a name='LocatingyourGlaspExtension'></a>Locating your Glasp Extension
+##  3. <a name='SettingupyourGlaspExtension'></a>Setting up your Glasp Extension
+
+###  3.1. <a name='LocatingyourGlaspExtension'></a>Locating your Glasp Extension
 Click on your extension icon <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fimg_375042.png&f=1&nofb=1&ipt=7a92b5ee9327c8171fe48323415e8589e2eb84c71c898780284b561521e6c97b&ipo=images" height="10" background-color="#fff"> in the top right corner of your browser. Select and click on Glasp to display your sidebar. You can pin your Glasp extension to your search bar for easy access. Once this is done, you will see the Glasp icon in the top right corner of your browser.
 
-###  4.2. <a name='Basicsetting'></a>Basic setting
+###  3.2. <a name='Basicsetting'></a>Basic setting
 
 ![Glasp Extension Basic Setting](https://res.cloudinary.com/dvwkqsotl/image/upload/v1683032065/Tech%20assign2/Glasp_User_Setting_wdng55.gif)
 
 On your Glasp extension sidebar, look out for `“update setting”`
 Here, you can choose to turn the `highlight popup` on or off, select your preferred `theme`, select `copy format`, and play around with `GPT` integration.
 
-###  4.3. <a name='Advancedsetting'></a>Advanced setting
+###  3.3. <a name='Advancedsetting'></a>Advanced setting
 
  In the bottom left corner of your Glasp extension sidebar, click on the setting icon :gear:. This will display more advanced setting options as follows;
 
@@ -106,9 +109,9 @@ Here, you can choose to turn the `highlight popup` on or off, select your prefer
 
 Click on *#* **Explore options** for intance, to view the highlight activities of your preferred hashtag. You can check out other options the same way.
 
-##  5. <a name='UsingGlaspExtensiontoHighlightWebArticles'></a>Using Glasp Extension to Highlight Web Articles
+##  4. <a name='UsingGlaspExtensiontoHighlightWebArticles'></a>Using Glasp Extension to Highlight Web Articles
 
-###  5.1. <a name='globe_with_meridians:Webfeatures'></a>:globe_with_meridians: Web features
+###  4.1. <a name='globe_with_meridians:Webfeatures'></a>:globe_with_meridians: Web features
 
 *Highlight popup.* 
 
@@ -119,13 +122,13 @@ From the popup bar, choose a preferred color for your highlight.
 Click on the twitter icon <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpluspng.com%2Fimg-png%2Ftwitter-png-logo-logo-twitter-in-png-2500.png&f=1&nofb=1&ipt=444a322236ff607fa7d735451ffeca59b001150f95c0b2a02813d019055ce5bb&ipo=images" height="15"> to share your highlight directly from the browser to your twitter page.
 To jot down the highlighted text, click on the note-taking icon :writing_hand: . Your note will be displayed on the Glasp extension sidebar.
 
-###  5.2. <a name='Sidebarfeatures'></a>Sidebar features
+###  4.2. <a name='Sidebarfeatures'></a>Sidebar features
 
 ![Glasp Extension Sidebar](https://res.cloudinary.com/dvwkqsotl/image/upload/v1683029966/Tech%20assign2/Glasp_extension_Sidebar_g8lw02.png)
 
  **:one: Share Highlights**
 
-Directly share your webpage highlight on twitter, facebook, linkedin or mail by clicking on share highlight. For sharing on other platforms, click on copy link, and proceed to paste it wherever you want. Your Glasp extension has a Readwise integration so that you can easily export your content.
+Directly share your webpage highlight on twitter, facebook, linkedin or mail by clicking on share highlight. For sharing on other platforms, click on copy link, and proceed to paste it wherever you want. Your Glasp extension has a [Readwise integration](https://medium.com/glasp/tutorial-how-to-export-web-highlights-into-readwise-2311e85ccaca) so that you can easily export your content.
 
 **:two: Go to Home**
   
@@ -193,13 +196,13 @@ Incase you missed key areas of the web article while selecting, you can click on
 
 In your Glasp extension sidebar, just by the right of `Highlight & Notes`, you will see `Copy all`. Click on it to copy all the highlights you have noted down in your highlight container and paste the content into your preferred text editor, or whereever you want.
 
-##  6. <a name='SignoutRemoveGlaspextension'></a>Sign out/Remove Glasp extension
+##  5. <a name='SignoutRemoveGlaspextension'></a>Sign out/Remove Glasp extension
 If you want to temporarily exit your Glasp extension, Click on the setting icon :gear: in the bottom left of your extension sidebar. Select the last option - `Sign out` - in the menu. However, if you want to uninstall Glasp entirely, Go to your extension icon and click on the menu bar beside Glasp. Select the `remove glasp` option and confirm your choice to remove the Glasp Extension from your browser.
 
-##  7. <a name='Conclusion'></a>Conclusion
+##  6. <a name='Conclusion'></a>Conclusion
 
 You have now learnt how to install, and use every freature of the Glasp Extension for your web highlighting needs. With this, you can always keep track of important information while browsing; and overall, improve your productivity in less time. So, go ahead and enjoy the dynamic interaction with web articles that Glasp offers.
 
-##  8. <a name='Footnote.'></a>Footnote.
+##  7. <a name='Footnote.'></a>Footnote.
 The Glasp web highlighter is an opensource project. Therefore, if you experience any glitches while making use of Glasp, report your observations on the `Bug Report` so that the contributing team could get it fixed. this would grealty improve the project and enhance your web highlighting experience.
  
