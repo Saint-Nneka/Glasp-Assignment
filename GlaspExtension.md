@@ -74,7 +74,7 @@ Now that you have successfully installed your Glasp extension, create a new acco
 ##  3. <a name='SettingupyourGlaspExtension'></a>Setting up your Glasp Extension
 
 ###  3.1. <a name='LocatingyourGlaspExtension'></a>Locating your Glasp Extension
-Click on your extension icon. <img src="https://res.cloudinary.com/dvwkqsotl/image/upload/v1684325633/Tech%20assign2/extension_l7lfj7.png" background-color="#fff"> in the top right corner of your browser. Select and click on Glasp to display your sidebar. You can pin your Glasp extension to your search bar for easy access. Once this is done, you will see the Glasp icon in the top right corner of your browser.
+Click on your extension icon ![Extension icon](https://res.cloudinary.com/dvwkqsotl/image/upload/v1684325633/Tech%20assign2/extension_l7lfj7.png) background-color="#fff"> in the top right corner of your browser. Select and click on Glasp to display your sidebar. You can pin your Glasp extension to your search bar for easy access. Once this is done, you will see the Glasp icon in the top right corner of your browser.
 
 ###  3.2. <a name='Basicsetting'></a>Basic setting
 
