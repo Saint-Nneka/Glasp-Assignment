@@ -74,7 +74,7 @@ Now that you have successfully installed your Glasp extension, create a new acco
 ##  3. <a name='SettingupyourGlaspExtension'></a>Setting up your Glasp Extension
 
 ###  3.1. <a name='LocatingyourGlaspExtension'></a>Locating your Glasp Extension
-Click on your extension icon. <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fimg_375042.png&f=1&nofb=1&ipt=7a92b5ee9327c8171fe48323415e8589e2eb84c71c898780284b561521e6c97b&ipo=images" height="10" background-color="#fff"> in the top right corner of your browser. Select and click on Glasp to display your sidebar. You can pin your Glasp extension to your search bar for easy access. Once this is done, you will see the Glasp icon in the top right corner of your browser.
+Click on your extension icon. <img src="https://res.cloudinary.com/dvwkqsotl/image/upload/v1684325633/Tech%20assign2/extension_l7lfj7.png" background-color="#fff"> in the top right corner of your browser. Select and click on Glasp to display your sidebar. You can pin your Glasp extension to your search bar for easy access. Once this is done, you will see the Glasp icon in the top right corner of your browser.
 
 ###  3.2. <a name='Basicsetting'></a>Basic setting
 
@@ -87,23 +87,23 @@ Here, you can choose to turn the `highlight popup` on or off, select your prefer
 
  In the bottom left corner of your Glasp extension sidebar, click on the setting icon :gear:. This will display more advanced setting options as follows;
 
-<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fimg_264570.png&f=1&nofb=1&ipt=574f32549ab9fe9b5e8855b5c2f1abc0daa604c64e05544efcf9c825443e7681&ipo=images" height="15"> See My Highlights
+<img src="https://res.cloudinary.com/dvwkqsotl/image/upload/v1684325899/Tech%20assign2/person_t3ruf8.png"> See My Highlights
 
 :wave: Talk to Founders
 
-<img src= "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fslack-logo-icon.png&f=1&nofb=1&ipt=aa89077770b34ade9ebca679f5aa8d3aa5eae7a31876c717cb2fd2d00edd75cf&ipo=images" height="15"> Join Community
+<img src= "https://res.cloudinary.com/dvwkqsotl/image/upload/v1684326227/Tech%20assign2/slack_x5g939.png" > Join Community
 
 *#* Explore content
 
 :arrow_forward: Tutorial Video
 
-<image src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fimg_519962.png&f=1&nofb=1&ipt=7a5cd7bdb68319744539fd25d5d233bc483fa71cb55898d2d904c63b0b11106f&ipo=images" height="15">   FAQs
+<image src="https://res.cloudinary.com/dvwkqsotl/image/upload/v1684326704/Tech%20assign2/fqa_v295mg.png">   FAQs
 
 :warning: Bug Report
 
 :gear: User Setting
 
-<img src="https://cdn2.iconfinder.com/data/icons/picons-essentials/57/logout-1024.png" height="15"> Sign Out
+<img src="https://res.cloudinary.com/dvwkqsotl/image/upload/v1684327211/Tech%20assign2/signout_tmjhsu.png"> Sign Out
 
 
 Click on *#* **Explore options**, for instance, to view the highlight activities of your preferred hashtag. You can check out other options the same way.
@@ -118,7 +118,7 @@ Click on *#* **Explore options**, for instance, to view the highlight activities
 
 Open the article in your browser and use your mouse to select the text you want to highlight. Once the text is selected, you will see a popup bar above the selection. If your popup bar isn't displayed, go to settings → highlight popup → on. 
 From the popup bar, choose a preferred color for your highlight.   
-Click on the Twitter icon <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpluspng.com%2Fimg-png%2Ftwitter-png-logo-logo-twitter-in-png-2500.png&f=1&nofb=1&ipt=444a322236ff607fa7d735451ffeca59b001150f95c0b2a02813d019055ce5bb&ipo=images" height="15"> to share your highlight directly from the browser to your Twitter page.
+Click on the Twitter icon <img src="https://res.cloudinary.com/dvwkqsotl/image/upload/v1684327430/Tech%20assign2/twitter_i0iolt.png"> to share your highlight directly from the browser to your Twitter page.
 To jot down the highlighted text, click on the note-taking icon :writing_hand: . Your note will be displayed on the Glasp extension sidebar.
 
 ###  4.2. <a name='Sidebarfeatures'></a>Sidebar features
