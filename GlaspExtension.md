@@ -74,7 +74,8 @@ Now that you have successfully installed your Glasp extension, create a new acco
 ##  3. <a name='SettingupyourGlaspExtension'></a>Setting up your Glasp Extension
 
 ###  3.1. <a name='LocatingyourGlaspExtension'></a>Locating your Glasp Extension
-Click on your extension icon ![Extension icon](https://res.cloudinary.com/dvwkqsotl/image/upload/v1684325633/Tech%20assign2/extension_l7lfj7.png) background-color="#fff"> in the top right corner of your browser. Select and click on Glasp to display your sidebar. You can pin your Glasp extension to your search bar for easy access. Once this is done, you will see the Glasp icon in the top right corner of your browser.
+Click on your extension icon 🧩
+in the top right corner of your browser. Select and click on Glasp to display your sidebar. You can pin your Glasp extension to your search bar for easy access. Once this is done, you will see the Glasp icon in the top right corner of your browser.
 
 ###  3.2. <a name='Basicsetting'></a>Basic setting
 
@@ -87,23 +88,23 @@ Here, you can choose to turn the `highlight popup` on or off, select your prefer
 
  In the bottom left corner of your Glasp extension sidebar, click on the setting icon :gear:. This will display more advanced setting options as follows;
 
-<img src="https://res.cloudinary.com/dvwkqsotl/image/upload/v1684325899/Tech%20assign2/person_t3ruf8.png"> See My Highlights
+👤 See My Highlights
 
 :wave: Talk to Founders
 
-<img src= "https://res.cloudinary.com/dvwkqsotl/image/upload/v1684326227/Tech%20assign2/slack_x5g939.png" > Join Community
+🌐 Join Community
 
 *#* Explore content
 
 :arrow_forward: Tutorial Video
 
-<image src="https://res.cloudinary.com/dvwkqsotl/image/upload/v1684326704/Tech%20assign2/fqa_v295mg.png">   FAQs
+**ℹ** FAQs
 
 :warning: Bug Report
 
 :gear: User Setting
 
-<img src="https://res.cloudinary.com/dvwkqsotl/image/upload/v1684327211/Tech%20assign2/signout_tmjhsu.png"> Sign Out
+🚪 Sign Out
 
 
 Click on *#* **Explore options**, for instance, to view the highlight activities of your preferred hashtag. You can check out other options the same way.
@@ -118,7 +119,7 @@ Click on *#* **Explore options**, for instance, to view the highlight activities
 
 Open the article in your browser and use your mouse to select the text you want to highlight. Once the text is selected, you will see a popup bar above the selection. If your popup bar isn't displayed, go to settings → highlight popup → on. 
 From the popup bar, choose a preferred color for your highlight.   
-Click on the Twitter icon <img src="https://res.cloudinary.com/dvwkqsotl/image/upload/v1684327430/Tech%20assign2/twitter_i0iolt.png"> to share your highlight directly from the browser to your Twitter page.
+Click on the Twitter icon 🐦to share your highlight directly from the browser to your Twitter page.
 To jot down the highlighted text, click on the note-taking icon :writing_hand: . Your note will be displayed on the Glasp extension sidebar.
 
 ###  4.2. <a name='Sidebarfeatures'></a>Sidebar features
@@ -143,7 +144,7 @@ Click on the tag icon 🏷️ to tag your highlight to a related subject.
 
 **:five: View AI Summary**
 
-Click on "view AI Summary" to get a paraphrased summary of your highlight. There is a copy icon beside the AI summary, click on it to have your own print, and on the bird icon  to directly tweet the AI summary.
+Click on "view AI Summary" to get a paraphrased summary of your highlight. There is a copy icon beside the AI summary, click on it to have your own print, and on the bird icon 🐦 to directly tweet the AI summary.
 
 **:six: Page comment**
 
